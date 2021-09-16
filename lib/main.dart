@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-        title: 'QR DEMO',
+        title: 'QR DEMO Commit',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.amber,
