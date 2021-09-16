@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "781612393335",
+    "project_id": "e-sante-df5d0",
+    "storage_bucket": "e-sante-df5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781612393335:android:78107afd45fbef31393772",
+        "android_client_info": {
+          "package_name": "com.aeologic.qr_bar_code_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781612393335-ks490sjh2elgr2gkdfnhd9hbmb7lv90q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0pTNfPvPLCUTDDDFTYXPDoKKOncoLAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781612393335-ks490sjh2elgr2gkdfnhd9hbmb7lv90q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781612393335-l6nto41shcdbeev6r6u9kgprpc4re0us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.esante"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
